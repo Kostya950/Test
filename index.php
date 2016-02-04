@@ -14,7 +14,7 @@
 <body>
 <p>commit master</p>
 <p> commit phpstorm</p>
-
+e
 efs
     <div class="head left_marg_head"><strong>Phone: +380 (97) 3000 256</strong>
         <a href="https://vk.com/like.nobody.other" title="vkontakte"><img class="soc_logo1 thumb" src="pics/vk_logo.png" alt="vkontakte link"></a>
