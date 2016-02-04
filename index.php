@@ -15,7 +15,7 @@
 <p>commit master</p>
 <p> commit phpstorm</p>
 
-
+efs
     <div class="head left_marg_head"><strong>Phone: +380 (97) 3000 256</strong>
         <a href="https://vk.com/like.nobody.other" title="vkontakte"><img class="soc_logo1 thumb" src="pics/vk_logo.png" alt="vkontakte link"></a>
         <a href="https://www.facebook.com/kostya.kovalchuk" title="facebook"><img class="soc_logo2 thumb" src="pics/f_logo.png" alt="face book link"></a>
